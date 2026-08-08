@@ -1,23 +1,22 @@
 # MediaDumps
 
-MediaDumps is a modern React learning project focused on the practical side of frontend development. It was built to explore how to fetch data from public APIs, render the results in a clean interface, and manage application state with Redux Toolkit.
+MediaDumps is a polished React learning project designed to explore how modern frontend apps fetch data from public APIs, display it beautifully, and manage application state with Redux Toolkit.
 
-## What this project demonstrates
+## What this project teaches
 
-- API fetching with Axios
-- Dynamic UI rendering based on search results
-- Redux Toolkit state management
-- Local collection persistence for saved items
-- Routing between pages with React Router
-- Toast-based feedback for user actions
+- How to fetch data from APIs using Axios
+- How to build responsive UI components for search results
+- How to manage global state with Redux Toolkit
+- How to create a simple favorites/collection experience
+- How to structure a learning-focused React app with routing and state flow
 
 ## Features
 
-- Search across photos, videos, and GIFs
-- Browse results in a polished and responsive layout
-- Save favorites into a personal collection
+- Search for photos, videos, and GIFs
+- View results in a clean, modern interface
+- Save items into a personal collection
 - Remove items or clear the collection anytime
-- Learn state flow through slices and actions
+- Experience lightweight UI feedback with toast notifications
 
 ## Tech stack
 
@@ -31,10 +30,10 @@ MediaDumps is a modern React learning project focused on the practical side of f
 
 ## Project structure
 
-- src/api: API requests and Axios setup
+- src/api: API requests and Axios integration
 - src/components: reusable UI components
-- src/pages: main app pages
-- src/redux: store and Redux slices
+- src/pages: main pages of the app
+- src/redux: store and slices for global state
 
 ## Getting started
 
@@ -62,4 +61,4 @@ npm run build
 
 ## Notes
 
-This project was created as a learning-focused app to understand real-world frontend patterns such as API integration, state management, and component-based UI design.
+This project was built as a practical learning experience for API integration, Redux state management, and frontend UI development.
