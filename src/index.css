@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+:root{
+  --bg:#100720;
+  --secondary:#31087B;
+  --primary:#FA2FB5;
+  --accent:#FFC23C;
+  --text:#FFFFFF;
+  --extra:#ff0000;
+}
+#title-bottom{
+    background: linear-gradient(transparent, #000408);
+    
+}
